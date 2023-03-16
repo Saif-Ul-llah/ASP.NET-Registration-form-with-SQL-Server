@@ -1,0 +1,7 @@
+C:\Users\as comp\OneDrive\Documents\Visual Studio 2017\Projects\WebApplication3\WebApplication3\bin\WebApplication3.dll.config
+C:\Users\as comp\OneDrive\Documents\Visual Studio 2017\Projects\WebApplication3\WebApplication3\bin\WebApplication3.dll
+C:\Users\as comp\OneDrive\Documents\Visual Studio 2017\Projects\WebApplication3\WebApplication3\bin\WebApplication3.pdb
+C:\Users\as comp\OneDrive\Documents\Visual Studio 2017\Projects\WebApplication3\WebApplication3\obj\Debug\WebApplication3.csprojAssemblyReference.cache
+C:\Users\as comp\OneDrive\Documents\Visual Studio 2017\Projects\WebApplication3\WebApplication3\obj\Debug\WebApplication3.csproj.CoreCompileInputs.cache
+C:\Users\as comp\OneDrive\Documents\Visual Studio 2017\Projects\WebApplication3\WebApplication3\obj\Debug\WebApplication3.dll
+C:\Users\as comp\OneDrive\Documents\Visual Studio 2017\Projects\WebApplication3\WebApplication3\obj\Debug\WebApplication3.pdb
